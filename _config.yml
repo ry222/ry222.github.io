@@ -94,11 +94,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : 류하연
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "행복한 컴퓨터교육 설계자"
+  location         : "대한민국, 서울"
+  email            : "khlim626@g.skku.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
