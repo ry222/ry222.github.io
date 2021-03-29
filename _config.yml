@@ -97,8 +97,8 @@ author:
   name             : 류하연
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "행복한 컴퓨터교육 설계자"
-  location         : "대한민국, 서울"
-  email            : "khlim626@g.skku.edu"
+  location         : "대한민국, 경기도"
+  email            : "21-20911@hafs.hs.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
